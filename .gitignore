@@ -1,8 +1,9 @@
 *.log
 *.db
 *iml
-target*
-bin/*
-lib/*
-out/*
+/target
+/bin
+/lib
+/out
+.idea/
 
