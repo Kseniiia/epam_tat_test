@@ -3,7 +3,7 @@
 *iml
 /target
 /bin
-/lib
-/out
-.idea/
+lib
+out
+.idea
 
