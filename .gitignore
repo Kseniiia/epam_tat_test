@@ -1,0 +1,8 @@
+*.log
+*.db
+*iml
+target*
+bin/*
+lib/*
+out/*
+
